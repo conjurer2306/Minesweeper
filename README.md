@@ -5,6 +5,7 @@ There are three levels for this game -\
 Beginner – 9 * 9 Board and 10 Mines\
 Intermediate – 16 * 16 Board and 40 Mines\
 Advanced – 24 * 24 Board and 99 Mines\
+<br/>
 Probability of finding a mine –\
 Beginner  level –  10/81 (0.12)\
 Intermediate level – 40/256 (0.15)\
